@@ -1,0 +1,22 @@
+{
+  "name": "rabbit-topic-emit",
+  "version": "1.0.0",
+  "description": "emit logs with RabbitMQ topics",
+  "main": "emit_log_topic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegochavezcarro/node-rabbit-topic-emit.git"
+  },
+  "author": "diegochavezcarro@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diegochavezcarro/node-rabbit-topic-emit/issues"
+  },
+  "homepage": "https://github.com/diegochavezcarro/node-rabbit-topic-emit#readme",
+  "dependencies": {
+    "amqplib": "^0.5.5"
+  }
+}
