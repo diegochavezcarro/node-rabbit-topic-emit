@@ -21,7 +21,7 @@ docker run -d --hostname rabbitmq --name rabbitmq -p 15672:15672 -p 5672:5672 ra
 
 En http://localhost:15672/ se puede ver la consola, acceder con guest/guest
 
-Primero ejecutar el Receptor del otro Repo. Ir probando estas diferentes opciones:
+Primero ejecutar el Receptor del otro Repo. Ir probando estas diferentes opciones (probar de a una o ir levantando en una nueva consola cada caso, pudiendo de esa manera probar todos juntos):
 
 node receive_logs_topic.js "#"
 
