@@ -45,4 +45,4 @@ node emit_log_topic.js "bla.bla" "Mensaje"
 
 * Tambien se pueden ver los bindings en el Dashboard:
 
-![Dashboard](Console1.png | width=100)
+<img src="Console1.png" width="150">
